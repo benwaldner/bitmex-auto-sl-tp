@@ -1,6 +1,6 @@
 # Personal notes:
 
-Compare the version at: https://github.com/benwaldner/crypto-market-samples/
+Compare the version and notes at: https://github.com/benwaldner/crypto-market-samples/
 
 
 # BitMEX Auto Stop Loss & Take Profit Bot (PRE-ALPHA)
